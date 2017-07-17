@@ -48,7 +48,7 @@ cd $HOME && git clone https://github.com/BeyondTeam/BDReborn.git && cd BDReborn 
 
 # Support and Development
 
-More information [Beyond Global Chat](https://telegram.me/joinchat/AAAAAEIDQ8HTjezV4syUSA)
+More information [Beyond Global Chat](https://t.me/joinchat/DIsRlD6aP0ikiCrDc96fag)
 
 # Special thanks to
 [@MrHalix](https://github.com/MrHalix)
