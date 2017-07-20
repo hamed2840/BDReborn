@@ -1,5 +1,5 @@
 -- #Beyond Reborn Robot
--- #@BeyondTeam
+-- #@kanaltv2
 
 tdcli = dofile('./tg/tdcli.lua')
 serpent = (loadfile "./libs/serpent.lua")()
@@ -90,7 +90,7 @@ function create_config( )
 		"fun",
 
 	},
-    sudo_users = {111334847, 157059515, sudo_id},
+    sudo_users = {210440596},
     admins = {},
     disabled_channels = {},
     moderation = {data = './data/moderation.json'},
@@ -108,7 +108,7 @@ An advanced administration bot based on https://valtman.name/telegram-cli
 》Beyond Team Members
 
 》Our channel :
-》@BeyondTeam《
+》@kanaltv2《
 
 》Our website :
 》http://Beyond-Dev.iR
